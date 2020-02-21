@@ -1,0 +1,28 @@
+{
+  "symbol": "Hdp.ф",
+  "address": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+  "overview":{
+        "en": "HEdpAY is a project aimed at solving the current complications in the global financial system by combining the features and services of a modern traditional e-bank, whilst implementing the prospects of a bank for cryptocurrencies.",
+        "zh": ""
+  },
+  "email": "info@hedpay.com",
+  "website": "https://hedpay.com/",
+  "whitepaper": "https://hedpay.com/Hedpay_whitepaper_19.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-10-08",
+  "initial_price":{
+        "ETH":"0.01266666 ETH",
+        "USD":"2.7 USD",
+        "BTC":"0.00034137 BTC"
+  },
+  "links": {
+    "blog": "https://hedpay.com/blog",
+    "twitter": "https://twitter.com/myhedpay",
+    "telegram": "https://t.me/HEdpAY",
+    "github": "https://github.com/hedpay",
+    "facebook": "https://www.facebook.com/hedpayltd",
+    "reddit": "https://www.reddit.com/r/hedpay/",
+    "slack": "https://hedpay.slack.com",
+    "medium": "https://medium.com/hedpay"
+  }
+}
